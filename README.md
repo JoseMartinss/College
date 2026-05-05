@@ -1,2 +1,2 @@
 # College
-the simples works that I do at the university
+Works and exercises that I do at the university
